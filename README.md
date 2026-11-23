@@ -6,6 +6,14 @@ This public repository contains product information and binaries only. All appli
 
 [Website](https://comark.work) · [All releases](https://github.com/Joseph-Jin/Comark-Downloads/releases)
 
+## iPad app
+
+Both desktop companions require an iPad with Comark installed. They cannot be used on their own.
+
+**App Store:** [United States](https://apps.apple.com/us/app/comark/id6812631959) · [Hong Kong](https://apps.apple.com/hk/app/comark/id6812631959) · [Japan](https://apps.apple.com/jp/app/comark/id6812631959)
+
+Comark is not offered on the China mainland App Store for this release.
+
 ## Desktop downloads
 
 | Platform | Download | Requirements |
@@ -21,8 +29,6 @@ One-line install:
 
     # Windows
     irm https://comark.work/install.ps1 | iex
-
-Both desktop companions require an iPad with Comark installed. They cannot be used on their own. The Comark iPad app 1.0 is in App Store review; the App Store link will be added here once it is approved. Comark is not offered on the China mainland App Store for this release.
 
 ### Mac 1.0
 
@@ -52,7 +58,7 @@ Double-click `Comark-Windows-1.0.2.msi`. It installs for your user account with 
 
 本仓库仅公开产品说明与下载文件，应用源码保持私有。下载无需 GitHub 账号。
 
-**iPad 端：** Comark iPad 1.0 正在 App Store 审核中，通过后会在这里补上 App Store 链接。本版本暂不在中国大陆 App Store 上架。
+**iPad 端下载（App Store）：** [美国](https://apps.apple.com/us/app/comark/id6812631959) · [香港](https://apps.apple.com/hk/app/comark/id6812631959) · [日本](https://apps.apple.com/jp/app/comark/id6812631959)。本版本暂不在中国大陆 App Store 上架。
 
 **Mac 用户注意：** 首次打开时 macOS 可能提示无法验证，请查看[安装指南](https://comark.work/mac-guide)了解三种简单的打开方法。
 
